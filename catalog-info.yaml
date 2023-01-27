@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Artist-Lookup
+  annotations:
+    github.com/project-slug: ArunNathan/Artist-Lookup
+spec:
+  type: other
+  lifecycle: unknown
+  owner: ArunNathan
